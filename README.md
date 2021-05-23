@@ -1,2 +1,2 @@
 # adventofcode
-Solved puzzles from adventofcode.  om for 2020
+Solutions for adventofcode.com for 2020
